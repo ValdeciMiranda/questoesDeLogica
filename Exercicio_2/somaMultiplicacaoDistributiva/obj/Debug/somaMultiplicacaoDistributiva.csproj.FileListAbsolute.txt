@@ -1,0 +1,7 @@
+C:\Users\teste\source\repos\somaMultiplicacaoDistributiva\bin\Debug\somaMultiplicacaoDistributiva.exe.config
+C:\Users\teste\source\repos\somaMultiplicacaoDistributiva\bin\Debug\somaMultiplicacaoDistributiva.exe
+C:\Users\teste\source\repos\somaMultiplicacaoDistributiva\bin\Debug\somaMultiplicacaoDistributiva.pdb
+C:\Users\teste\source\repos\somaMultiplicacaoDistributiva\obj\Debug\somaMultiplicacaoDistributiva.csprojAssemblyReference.cache
+C:\Users\teste\source\repos\somaMultiplicacaoDistributiva\obj\Debug\somaMultiplicacaoDistributiva.csproj.CoreCompileInputs.cache
+C:\Users\teste\source\repos\somaMultiplicacaoDistributiva\obj\Debug\somaMultiplicacaoDistributiva.exe
+C:\Users\teste\source\repos\somaMultiplicacaoDistributiva\obj\Debug\somaMultiplicacaoDistributiva.pdb
