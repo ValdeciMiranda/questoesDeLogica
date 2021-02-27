@@ -1,0 +1,7 @@
+C:\Users\teste\source\repos\calculoCombustivel\bin\Debug\calculoCombustivel.exe.config
+C:\Users\teste\source\repos\calculoCombustivel\bin\Debug\calculoCombustivel.exe
+C:\Users\teste\source\repos\calculoCombustivel\bin\Debug\calculoCombustivel.pdb
+C:\Users\teste\source\repos\calculoCombustivel\obj\Debug\calculoCombustivel.csprojAssemblyReference.cache
+C:\Users\teste\source\repos\calculoCombustivel\obj\Debug\calculoCombustivel.csproj.CoreCompileInputs.cache
+C:\Users\teste\source\repos\calculoCombustivel\obj\Debug\calculoCombustivel.exe
+C:\Users\teste\source\repos\calculoCombustivel\obj\Debug\calculoCombustivel.pdb
