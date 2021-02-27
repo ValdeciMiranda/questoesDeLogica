@@ -1,0 +1,7 @@
+C:\Users\teste\source\repos\leituraProdutoSoma\bin\Debug\leituraProdutoSoma.exe.config
+C:\Users\teste\source\repos\leituraProdutoSoma\bin\Debug\leituraProdutoSoma.exe
+C:\Users\teste\source\repos\leituraProdutoSoma\bin\Debug\leituraProdutoSoma.pdb
+C:\Users\teste\source\repos\leituraProdutoSoma\obj\Debug\leituraProdutoSoma.csprojAssemblyReference.cache
+C:\Users\teste\source\repos\leituraProdutoSoma\obj\Debug\leituraProdutoSoma.csproj.CoreCompileInputs.cache
+C:\Users\teste\source\repos\leituraProdutoSoma\obj\Debug\leituraProdutoSoma.exe
+C:\Users\teste\source\repos\leituraProdutoSoma\obj\Debug\leituraProdutoSoma.pdb
