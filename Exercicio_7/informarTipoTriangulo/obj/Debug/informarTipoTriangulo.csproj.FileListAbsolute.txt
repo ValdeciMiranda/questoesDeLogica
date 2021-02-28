@@ -1,0 +1,7 @@
+C:\Users\teste\source\repos\informarTipoTriangulo\bin\Debug\informarTipoTriangulo.exe.config
+C:\Users\teste\source\repos\informarTipoTriangulo\bin\Debug\informarTipoTriangulo.exe
+C:\Users\teste\source\repos\informarTipoTriangulo\bin\Debug\informarTipoTriangulo.pdb
+C:\Users\teste\source\repos\informarTipoTriangulo\obj\Debug\informarTipoTriangulo.csprojAssemblyReference.cache
+C:\Users\teste\source\repos\informarTipoTriangulo\obj\Debug\informarTipoTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\teste\source\repos\informarTipoTriangulo\obj\Debug\informarTipoTriangulo.exe
+C:\Users\teste\source\repos\informarTipoTriangulo\obj\Debug\informarTipoTriangulo.pdb
