@@ -1,0 +1,7 @@
+C:\Users\teste\source\repos\numerosDivisiveis\bin\Debug\numerosDivisiveis.exe.config
+C:\Users\teste\source\repos\numerosDivisiveis\bin\Debug\numerosDivisiveis.exe
+C:\Users\teste\source\repos\numerosDivisiveis\bin\Debug\numerosDivisiveis.pdb
+C:\Users\teste\source\repos\numerosDivisiveis\obj\Debug\numerosDivisiveis.csprojAssemblyReference.cache
+C:\Users\teste\source\repos\numerosDivisiveis\obj\Debug\numerosDivisiveis.csproj.CoreCompileInputs.cache
+C:\Users\teste\source\repos\numerosDivisiveis\obj\Debug\numerosDivisiveis.exe
+C:\Users\teste\source\repos\numerosDivisiveis\obj\Debug\numerosDivisiveis.pdb
