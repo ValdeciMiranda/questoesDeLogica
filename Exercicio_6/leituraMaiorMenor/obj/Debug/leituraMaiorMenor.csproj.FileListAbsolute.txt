@@ -1,0 +1,7 @@
+C:\Users\teste\source\repos\leituraMaiorMenor\bin\Debug\leituraMaiorMenor.exe.config
+C:\Users\teste\source\repos\leituraMaiorMenor\bin\Debug\leituraMaiorMenor.exe
+C:\Users\teste\source\repos\leituraMaiorMenor\bin\Debug\leituraMaiorMenor.pdb
+C:\Users\teste\source\repos\leituraMaiorMenor\obj\Debug\leituraMaiorMenor.csprojAssemblyReference.cache
+C:\Users\teste\source\repos\leituraMaiorMenor\obj\Debug\leituraMaiorMenor.csproj.CoreCompileInputs.cache
+C:\Users\teste\source\repos\leituraMaiorMenor\obj\Debug\leituraMaiorMenor.exe
+C:\Users\teste\source\repos\leituraMaiorMenor\obj\Debug\leituraMaiorMenor.pdb
