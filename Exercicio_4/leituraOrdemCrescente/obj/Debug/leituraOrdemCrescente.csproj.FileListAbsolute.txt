@@ -1,0 +1,7 @@
+C:\Users\teste\source\repos\leituraOrdemCrescente\bin\Debug\leituraOrdemCrescente.exe.config
+C:\Users\teste\source\repos\leituraOrdemCrescente\bin\Debug\leituraOrdemCrescente.exe
+C:\Users\teste\source\repos\leituraOrdemCrescente\bin\Debug\leituraOrdemCrescente.pdb
+C:\Users\teste\source\repos\leituraOrdemCrescente\obj\Debug\leituraOrdemCrescente.csprojAssemblyReference.cache
+C:\Users\teste\source\repos\leituraOrdemCrescente\obj\Debug\leituraOrdemCrescente.csproj.CoreCompileInputs.cache
+C:\Users\teste\source\repos\leituraOrdemCrescente\obj\Debug\leituraOrdemCrescente.exe
+C:\Users\teste\source\repos\leituraOrdemCrescente\obj\Debug\leituraOrdemCrescente.pdb
