@@ -1,0 +1,7 @@
+C:\Users\teste\source\repos\matrizVerificaParImparMultiplicaSoma\bin\Debug\matrizVerificaParImparMultiplicaSoma.exe.config
+C:\Users\teste\source\repos\matrizVerificaParImparMultiplicaSoma\bin\Debug\matrizVerificaParImparMultiplicaSoma.exe
+C:\Users\teste\source\repos\matrizVerificaParImparMultiplicaSoma\bin\Debug\matrizVerificaParImparMultiplicaSoma.pdb
+C:\Users\teste\source\repos\matrizVerificaParImparMultiplicaSoma\obj\Debug\matrizVerificaParImparMultiplicaSoma.csprojAssemblyReference.cache
+C:\Users\teste\source\repos\matrizVerificaParImparMultiplicaSoma\obj\Debug\matrizVerificaParImparMultiplicaSoma.csproj.CoreCompileInputs.cache
+C:\Users\teste\source\repos\matrizVerificaParImparMultiplicaSoma\obj\Debug\matrizVerificaParImparMultiplicaSoma.exe
+C:\Users\teste\source\repos\matrizVerificaParImparMultiplicaSoma\obj\Debug\matrizVerificaParImparMultiplicaSoma.pdb
