@@ -1,0 +1,7 @@
+C:\Users\teste\source\repos\calculadoraQuatroOperacoes\bin\Debug\calculadoraQuatroOperacoes.exe.config
+C:\Users\teste\source\repos\calculadoraQuatroOperacoes\bin\Debug\calculadoraQuatroOperacoes.exe
+C:\Users\teste\source\repos\calculadoraQuatroOperacoes\bin\Debug\calculadoraQuatroOperacoes.pdb
+C:\Users\teste\source\repos\calculadoraQuatroOperacoes\obj\Debug\calculadoraQuatroOperacoes.csprojAssemblyReference.cache
+C:\Users\teste\source\repos\calculadoraQuatroOperacoes\obj\Debug\calculadoraQuatroOperacoes.csproj.CoreCompileInputs.cache
+C:\Users\teste\source\repos\calculadoraQuatroOperacoes\obj\Debug\calculadoraQuatroOperacoes.exe
+C:\Users\teste\source\repos\calculadoraQuatroOperacoes\obj\Debug\calculadoraQuatroOperacoes.pdb
