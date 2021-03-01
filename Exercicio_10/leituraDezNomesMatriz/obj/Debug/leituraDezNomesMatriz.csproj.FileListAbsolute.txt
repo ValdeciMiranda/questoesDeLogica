@@ -1,0 +1,7 @@
+C:\Users\teste\source\repos\leituraDezNomesMatriz\bin\Debug\leituraDezNomesMatriz.exe.config
+C:\Users\teste\source\repos\leituraDezNomesMatriz\bin\Debug\leituraDezNomesMatriz.exe
+C:\Users\teste\source\repos\leituraDezNomesMatriz\bin\Debug\leituraDezNomesMatriz.pdb
+C:\Users\teste\source\repos\leituraDezNomesMatriz\obj\Debug\leituraDezNomesMatriz.csprojAssemblyReference.cache
+C:\Users\teste\source\repos\leituraDezNomesMatriz\obj\Debug\leituraDezNomesMatriz.csproj.CoreCompileInputs.cache
+C:\Users\teste\source\repos\leituraDezNomesMatriz\obj\Debug\leituraDezNomesMatriz.exe
+C:\Users\teste\source\repos\leituraDezNomesMatriz\obj\Debug\leituraDezNomesMatriz.pdb
