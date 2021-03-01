@@ -1,0 +1,7 @@
+C:\Users\teste\source\repos\calculoFatorialCincoWhile\bin\Debug\calculoFatorialCincoWhile.exe.config
+C:\Users\teste\source\repos\calculoFatorialCincoWhile\bin\Debug\calculoFatorialCincoWhile.exe
+C:\Users\teste\source\repos\calculoFatorialCincoWhile\bin\Debug\calculoFatorialCincoWhile.pdb
+C:\Users\teste\source\repos\calculoFatorialCincoWhile\obj\Debug\calculoFatorialCincoWhile.csprojAssemblyReference.cache
+C:\Users\teste\source\repos\calculoFatorialCincoWhile\obj\Debug\calculoFatorialCincoWhile.csproj.CoreCompileInputs.cache
+C:\Users\teste\source\repos\calculoFatorialCincoWhile\obj\Debug\calculoFatorialCincoWhile.exe
+C:\Users\teste\source\repos\calculoFatorialCincoWhile\obj\Debug\calculoFatorialCincoWhile.pdb
