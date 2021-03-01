@@ -1,0 +1,7 @@
+C:\Users\teste\source\repos\matrizSomaImpares\bin\Debug\matrizSomaImpares.exe.config
+C:\Users\teste\source\repos\matrizSomaImpares\bin\Debug\matrizSomaImpares.exe
+C:\Users\teste\source\repos\matrizSomaImpares\bin\Debug\matrizSomaImpares.pdb
+C:\Users\teste\source\repos\matrizSomaImpares\obj\Debug\matrizSomaImpares.csprojAssemblyReference.cache
+C:\Users\teste\source\repos\matrizSomaImpares\obj\Debug\matrizSomaImpares.csproj.CoreCompileInputs.cache
+C:\Users\teste\source\repos\matrizSomaImpares\obj\Debug\matrizSomaImpares.exe
+C:\Users\teste\source\repos\matrizSomaImpares\obj\Debug\matrizSomaImpares.pdb
