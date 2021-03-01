@@ -1,0 +1,7 @@
+C:\Users\teste\source\repos\armazenarMatrizEmOutraMatriz\bin\Debug\armazenarMatrizEmOutraMatriz.exe.config
+C:\Users\teste\source\repos\armazenarMatrizEmOutraMatriz\bin\Debug\armazenarMatrizEmOutraMatriz.exe
+C:\Users\teste\source\repos\armazenarMatrizEmOutraMatriz\bin\Debug\armazenarMatrizEmOutraMatriz.pdb
+C:\Users\teste\source\repos\armazenarMatrizEmOutraMatriz\obj\Debug\armazenarMatrizEmOutraMatriz.csprojAssemblyReference.cache
+C:\Users\teste\source\repos\armazenarMatrizEmOutraMatriz\obj\Debug\armazenarMatrizEmOutraMatriz.csproj.CoreCompileInputs.cache
+C:\Users\teste\source\repos\armazenarMatrizEmOutraMatriz\obj\Debug\armazenarMatrizEmOutraMatriz.exe
+C:\Users\teste\source\repos\armazenarMatrizEmOutraMatriz\obj\Debug\armazenarMatrizEmOutraMatriz.pdb
